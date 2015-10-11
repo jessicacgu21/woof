@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-4c9d28a556661a0abb79645fadd8f65116edc817.jar" />
+    </item>
+    <item
+        jar="/Users/jessicagu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-2201b168fd349eae2047e0f4f8929e7c8f8f3c4d.jar" />
+    </item>
+    <item
+        jar="/Users/jessicagu/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.3/36366e460af2c0f224bb8f70b64e3302f638b138/parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.10.3-379f06318e9b7992c014b97ee0587cd471f6fd0e.jar" />
+    </item>
+    <item
+        jar="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-fa8d046a371f7a7a970104915f0124526ac167b7.jar" />
+    </item>
+    <item
+        jar="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5a91f25032df84dda612d985c8b500459539214f.jar" />
+    </item>
+    <item
+        jar="/Users/jessicagu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/jessicagu/Downloads/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-73fc286e4cde76e00c09464719aeae1d10f0e81b.jar" />
+    </item>
+
+</items>
